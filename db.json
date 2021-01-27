@@ -1,66 +1,68 @@
-[
-  {
-    "id": 1,
-    "atribut1nod1": "atribut1nod1",
-    "atribut2nod1": "atribut2nod1",
-    "atribut3nod1": "atribut3nod1",
-    "nod2": {
-      "atribut1nod2": "atribut1nod2",
-      "atribut2nod2": "atribut2nod2",
-      "atribut3nod2": "atribut3nod2",
-      "nod3": {
-        "atribut1nod3": "atribut1nod3",
-        "atribut2nod3": "atribut2nod3",
-        "atribut3nod3": "atribut3nod3"
+{
+  "objects": [
+    {
+      "id": 1,
+      "atribut1nod1": "atribut1nod1",
+      "atribut2nod1": "atribut2nod1",
+      "atribut3nod1": "atribut3nod1",
+      "nod2": {
+        "atribut1nod2": "atribut1nod2",
+        "atribut2nod2": "atribut2nod2",
+        "atribut3nod2": "atribut3nod2",
+        "nod3": {
+          "atribut1nod3": "atribut1nod3",
+          "atribut2nod3": "atribut2nod3",
+          "atribut3nod3": "atribut3nod3"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "atribut1nod1": "atribut1nod1",
+      "atribut2nod1": "atribut2nod1",
+      "atribut3nod1": "atribut3nod1",
+      "nod2": {
+        "atribut1nod2": "atribut1nod2",
+        "atribut2nod2": "atribut2nod2",
+        "atribut3nod2": "atribut3nod2",
+        "nod3": {
+          "atribut1nod3": "atribut1nod3",
+          "atribut2nod3": "atribut2nod3",
+          "atribut3nod3": "atribut3nod3"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "atribut1nod1": "atribut1nod1",
+      "atribut2nod1": "atribut2nod1",
+      "atribut3nod1": "atribut3nod1",
+      "nod2": {
+        "atribut1nod2": "atribut1nod2",
+        "atribut2nod2": "atribut2nod2",
+        "atribut3nod2": "atribut3nod2",
+        "nod3": {
+          "atribut1nod3": "atribut1nod3",
+          "atribut2nod3": "atribut2nod3",
+          "atribut3nod3": "atribut3nod3"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "atribut1nod1": "atribut1nod1",
+      "atribut2nod1": "atribut2nod1",
+      "atribut3nod1": "atribut3nod1",
+      "nod2": {
+        "atribut1nod2": "atribut1nod2",
+        "atribut2nod2": "atribut2nod2",
+        "atribut3nod2": "atribut3nod2",
+        "nod3": {
+          "atribut1nod3": "atribut1nod3",
+          "atribut2nod3": "atribut2nod3",
+          "atribut3nod3": "atribut3nod3"
+        }
       }
     }
-  },
-  {
-    "id": 2,
-    "atribut1nod1": "atribut1nod1",
-    "atribut2nod1": "atribut2nod1",
-    "atribut3nod1": "atribut3nod1",
-    "nod2": {
-      "atribut1nod2": "atribut1nod2",
-      "atribut2nod2": "atribut2nod2",
-      "atribut3nod2": "atribut3nod2",
-      "nod3": {
-        "atribut1nod3": "atribut1nod3",
-        "atribut2nod3": "atribut2nod3",
-        "atribut3nod3": "atribut3nod3"
-      }
-    }
-  },
-  {
-    "id": 3,
-    "atribut1nod1": "atribut1nod1",
-    "atribut2nod1": "atribut2nod1",
-    "atribut3nod1": "atribut3nod1",
-    "nod2": {
-      "atribut1nod2": "atribut1nod2",
-      "atribut2nod2": "atribut2nod2",
-      "atribut3nod2": "atribut3nod2",
-      "nod3": {
-        "atribut1nod3": "atribut1nod3",
-        "atribut2nod3": "atribut2nod3",
-        "atribut3nod3": "atribut3nod3"
-      }
-    }
-  },
-  {
-    "id": 4,
-    "atribut1nod1": "atribut1nod1",
-    "atribut2nod1": "atribut2nod1",
-    "atribut3nod1": "atribut3nod1",
-    "nod2": {
-      "atribut1nod2": "atribut1nod2",
-      "atribut2nod2": "atribut2nod2",
-      "atribut3nod2": "atribut3nod2",
-      "nod3": {
-        "atribut1nod3": "atribut1nod3",
-        "atribut2nod3": "atribut2nod3",
-        "atribut3nod3": "atribut3nod3"
-      }
-    }
-  }
-]
+  ]
+}
