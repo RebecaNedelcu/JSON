@@ -2,64 +2,64 @@
   "objects": [
     {
       "id": 1,
-      "atribut1nod1": "atribut1nod1",
-      "atribut2nod1": "atribut2nod1",
-      "atribut3nod1": "atribut3nod1",
+      "Nume": "Nedelcu",
+      "Prenume": "Rebeca",
+      "Varsta": "21",
       "nod2": {
-        "atribut1nod2": "atribut1nod2",
-        "atribut2nod2": "atribut2nod2",
-        "atribut3nod2": "atribut3nod2",
+        "OraSosire": "14:32",
+        "Rol": "Doctor",
+        "Salariu": "10",
         "nod3": {
-          "atribut1nod3": "atribut1nod3",
-          "atribut2nod3": "atribut2nod3",
+          "Raspuns": "true",
+          "Data": "12/12/1999",
           "atribut3nod3": "atribut3nod3"
         }
       }
     },
-    {
+  {
       "id": 2,
-      "atribut1nod1": "atribut1nod1",
-      "atribut2nod1": "atribut2nod1",
-      "atribut3nod1": "atribut3nod1",
+      "Nume": "Ion",
+      "Prenume": "Andrei",
+      "Varsta": "21",
       "nod2": {
-        "atribut1nod2": "atribut1nod2",
-        "atribut2nod2": "atribut2nod2",
-        "atribut3nod2": "atribut3nod2",
+        "OraSosire": "14:32",
+        "Rol": "Doctor",
+        "Salariu": "10",
         "nod3": {
-          "atribut1nod3": "atribut1nod3",
-          "atribut2nod3": "atribut2nod3",
+          "Raspuns": "true",
+          "Data": "12/12/1999",
           "atribut3nod3": "atribut3nod3"
         }
       }
     },
-    {
+  {
       "id": 3,
-      "atribut1nod1": "atribut1nod1",
-      "atribut2nod1": "atribut2nod1",
-      "atribut3nod1": "atribut3nod1",
+      "Nume": "Marcel",
+      "Prenume": "Pavel",
+      "Varsta": "21",
       "nod2": {
-        "atribut1nod2": "atribut1nod2",
-        "atribut2nod2": "atribut2nod2",
-        "atribut3nod2": "atribut3nod2",
+        "OraSosire": "14:32",
+        "Rol": "Doctor",
+        "Salariu": "10",
         "nod3": {
-          "atribut1nod3": "atribut1nod3",
-          "atribut2nod3": "atribut2nod3",
+          "Raspuns": "true",
+          "Data": "12/12/1999",
           "atribut3nod3": "atribut3nod3"
         }
       }
     },
-    {
+  {
       "id": 4,
-      "atribut1nod1": "atribut1nod1",
-      "atribut2nod1": "atribut2nod1",
-      "atribut3nod1": "atribut3nod1",
+      "Nume": "Popescu",
+      "Prenume": "Ionut",
+      "Varsta": "21",
       "nod2": {
-        "atribut1nod2": "atribut1nod2",
-        "atribut2nod2": "atribut2nod2",
-        "atribut3nod2": "atribut3nod2",
+        "OraSosire": "14:32",
+        "Rol": "Doctor",
+        "Salariu": "10",
         "nod3": {
-          "atribut1nod3": "atribut1nod3",
-          "atribut2nod3": "atribut2nod3",
+          "Raspuns": "true",
+          "Data": "12/12/1999",
           "atribut3nod3": "atribut3nod3"
         }
       }
